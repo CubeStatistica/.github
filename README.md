@@ -2,4 +2,4 @@
 
 # Cube Statistica
 
-### We are machine learning app development company. 
+### We are a machine learning app development company. 
